@@ -2,6 +2,8 @@
 
 Open Source DevOps, Okay Go!
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.dweomer/dweomer-pom.svg?maxAge=2592000)]()
+
 ## Releasing
 
 * Make sure `gpg-agent` is running.
