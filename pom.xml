@@ -16,7 +16,7 @@
 
     <groupId>io.dweomer</groupId>
     <artifactId>dweomer-pom</artifactId>
-    <version>0</version>
+    <version>1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>dweomer-pom</name>
@@ -53,8 +53,8 @@
         <connection>scm:git:https://github.com/dweomer/dweomer-pom.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/dweomer/dweomer-pom.git</developerConnection>
         <url>https://github.com/dweomer/dweomer-pom</url>
-      <tag>dweomer-pom-0</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
     <issueManagement>
         <system>github</system>
         <url>https://github.com/dweomer/${project.artifactId}/issues</url>

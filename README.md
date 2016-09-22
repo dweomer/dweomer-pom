@@ -1,8 +1,11 @@
 # dweomer-pom
 
----
-
 Open Source DevOps, Okay Go!
+
+## Releasing
+
+* Make sure `gpg-agent` is running.
+* Execute `mvn -B release:prepare release:perform`
 
 ---
 
