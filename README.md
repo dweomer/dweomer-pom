@@ -2,7 +2,7 @@
 
 Open Source DevOps, Okay Go!
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.dweomer/dweomer-pom.svg?maxAge=2592000)]()
+[![Maven Central](https://img.shields.io/maven-central/v/io.dweomer/dweomer-pom.svg?maxAge=2592000)](http://search.maven.org/#search%7Cga%7C1%7Cdweomer-pom)
 
 ## Releasing
 
